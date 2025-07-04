@@ -1,6 +1,6 @@
 # Lab Automation Notes
 
-Some tips and things of note while learning laboratory automation techniques, especially with Opentrons (@Opentrons):
+Some tips and things of note while learning laboratory automation techniques:
 
 ---
 
